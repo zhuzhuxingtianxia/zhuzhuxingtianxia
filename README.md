@@ -2,6 +2,7 @@
 
 <!--
 **zhuzhuxingtianxia/zhuzhuxingtianxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhuzhuxingtianxia&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
@@ -14,8 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhuzhuxingtianxia&show_icons=true&theme=radical)
 
 - :orange_book: Focusing on Swift & iOS
 - :hammer: Creator of applications and frameworks
