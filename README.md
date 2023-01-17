@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhuzhuxingtianxia&show_icons=true&theme=radical)
 
-![访客](https://profile-counter.glitch.me/zhuzhuxingtianxia/count.svg)
 
 <!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhuzhuxingtianxia&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=false" />
