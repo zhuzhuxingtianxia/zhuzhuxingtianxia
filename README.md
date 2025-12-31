@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhuzhuxingtianxia&show_icons=true&theme=radical)
+![Stats](./profile/stats.svg)
 
+<!--
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhuzhuxingtianxia&show_icons=true&theme=radical)
+-->
 <!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhuzhuxingtianxia&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=false" />
 
