@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Stats](./profile/stats.svg)
+![Stats](./profile/stats.svg?&show_icons=true&theme=radical)
 
 <!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhuzhuxingtianxia&show_icons=true&theme=radical)
