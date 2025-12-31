@@ -1,4 +1,4 @@
-name: Update README cards
+name: GitHub Star Cards
 
 on:
   schedule:
